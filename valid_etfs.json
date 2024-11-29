@@ -1,0 +1,130 @@
+[
+    {
+        "symbol": "CNYA",
+        "name": "AZ China: ETF que invierte en empresas chinas"
+    },
+    {
+        "symbol": "EWT",
+        "name": "AZ MSCI TAIWAN INDEX FD: ETF que sigue el \u00edndice MSCI de Taiw\u00e1n"
+    },
+    {
+        "symbol": "IWM",
+        "name": "AZ RUSSELL 2000: ETF que sigue el \u00edndice Russell 2000 de peque\u00f1as empresas estadounidenses"
+    },
+    {
+        "symbol": "EWZ",
+        "name": "AZ Brasil: ETF que invierte en empresas brasile\u00f1as"
+    },
+    {
+        "symbol": "EWU",
+        "name": "AZ MSCI UNITED KINGDOM: ETF que sigue el \u00edndice MSCI del Reino Unido"
+    },
+    {
+        "symbol": "XLF",
+        "name": "AZ DJ US FINANCIAL SECT: ETF que sigue el sector financiero de EE.UU."
+    },
+    {
+        "symbol": "BKF",
+        "name": "AZ BRIC: ETF que invierte en los pa\u00edses BRIC (Brasil, Rusia, India, China)"
+    },
+    {
+        "symbol": "EWY",
+        "name": "AZ MSCI SOUTH KOREA IND: ETF que sigue el \u00edndice MSCI de Corea del Sur"
+    },
+    {
+        "symbol": "AGG",
+        "name": "AZ BARCLAYS AGGREGATE: ETF que invierte en bonos agregados de EE.UU."
+    },
+    {
+        "symbol": "EEM",
+        "name": "AZ Mercados Emergentes: ETF que invierte en mercados emergentes"
+    },
+    {
+        "symbol": "EZU",
+        "name": "AZ MSCI EMU: ETF que sigue el \u00edndice MSCI de la Uni\u00f3n Econ\u00f3mica y Monetaria"
+    },
+    {
+        "symbol": "FXI",
+        "name": "AZ FTSE/XINHUA CHINA 25: ETF que invierte en las 25 principales empresas chinas"
+    },
+    {
+        "symbol": "GLD",
+        "name": "AZ Oro: ETF que sigue el precio del oro"
+    },
+    {
+        "symbol": "QQQ",
+        "name": "AZ QQQ NASDAQ 100: ETF que sigue el \u00edndice NASDAQ 100"
+    },
+    {
+        "symbol": "AAXJ",
+        "name": "AZ MSCI ASIA EX-JAPAN: ETF que sigue el \u00edndice MSCI de Asia excluyendo Jap\u00f3n"
+    },
+    {
+        "symbol": "SHY",
+        "name": "AZ BARCLAYS 1-3 YEAR TR: ETF que invierte en bonos del Tesoro de EE.UU. a corto plazo (1-3 a\u00f1os)"
+    },
+    {
+        "symbol": "ACWI",
+        "name": "AZ MSCI ACWI INDEX FUND: ETF que sigue el \u00edndice MSCI All Country World"
+    },
+    {
+        "symbol": "SLV",
+        "name": "AZ SILVER TRUST: ETF que sigue el precio de la plata"
+    },
+    {
+        "symbol": "EWH",
+        "name": "AZ MSCI HONG KONG INDEX: ETF que sigue el \u00edndice MSCI de Hong Kong"
+    },
+    {
+        "symbol": "SPY",
+        "name": "AZ SPDR S&P 500 ETF TRUST: ETF que sigue el \u00edndice S&P 500"
+    },
+    {
+        "symbol": "EWJ",
+        "name": "AZ MSCI JAPAN INDEX FD: ETF que sigue el \u00edndice MSCI de Jap\u00f3n"
+    },
+    {
+        "symbol": "IEI",
+        "name": "AZ BG EUR GOVT BOND 1-3: ETF que invierte en bonos gubernamentales de la Eurozona a corto plazo (1-3 a\u00f1os)"
+    },
+    {
+        "symbol": "DIA",
+        "name": "AZ SPDR DJIA TRUST: ETF que sigue el \u00edndice Dow Jones Industrial Average"
+    },
+    {
+        "symbol": "EWQ",
+        "name": "AZ MSCI FRANCE INDEX FD: ETF que sigue el \u00edndice MSCI de Francia"
+    },
+    {
+        "symbol": "VWO",
+        "name": "AZ VANGUARD EMERGING MARKET ETF: ETF que invierte en mercados emergentes globales"
+    },
+    {
+        "symbol": "EWA",
+        "name": "AZ MSCI AUSTRALIA INDEX: ETF que sigue el \u00edndice MSCI de Australia"
+    },
+    {
+        "symbol": "XLF",
+        "name": "AZ FINANCIAL SELECT SECTOR SPDR: ETF que sigue el sector financiero de EE.UU."
+    },
+    {
+        "symbol": "EWC",
+        "name": "AZ MSCI CANADA: ETF que sigue el \u00edndice MSCI de Canad\u00e1"
+    },
+    {
+        "symbol": "ILF",
+        "name": "AZ S&P LATIN AMERICA 40: ETF que sigue el \u00edndice S&P de las 40 principales empresas de Am\u00e9rica Latina"
+    },
+    {
+        "symbol": "XLV",
+        "name": "AZ HEALTH CARE SELECT SECTOR: ETF que sigue el sector salud de EE.UU."
+    },
+    {
+        "symbol": "EWG",
+        "name": "AZ MSCI GERMANY INDEX: ETF que sigue el \u00edndice MSCI de Alemania"
+    },
+    {
+        "symbol": "ITB",
+        "name": "AZ DJ US HOME CONSTRUCT: ETF que sigue el sector de la construcci\u00f3n de viviendas en EE.UU."
+    }
+]
